@@ -1,4 +1,4 @@
-package no.steria.solnm;
+
 
 public class DeathKnight {
 

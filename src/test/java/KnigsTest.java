@@ -1,4 +1,4 @@
-package no.steria.solnm;
+
 
 import static org.fest.assertions.Assertions.assertThat;
 

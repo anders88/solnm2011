@@ -1,4 +1,4 @@
-package no.steria.solnm;
+
 
 import java.util.HashMap;
 import java.util.Map;
